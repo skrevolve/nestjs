@@ -5,6 +5,6 @@
   "username": "postgres",
   "password": "1234",
   "database": "nest_blog",
-  "entities": ["dis/**/**.entity{.ts,.js}"],
+  "entities": ["dist/**/*.entity{.ts,.js}"],
   "synchronize": true
 }
